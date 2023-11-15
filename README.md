@@ -24,10 +24,10 @@ This plugin uses jobs.vim to launch the search in backgraund.
 - Use command :Jobsk to kill any searche running in backgraund.
 
 Default mappings:
-- \<leader>f : search word under cursor (or visual selection) in current buffer.
-- \<leader>d : search word under cursor (or visual selection) in current buffer file's directory.
-- \<leader>p : search word under cursor (or visual selection) in current buffer file's parent directory.
-- \<leader>w : search word under cursor (or visual selection) in working directory.
+- \<leader>af : search word under cursor (or visual selection) in current buffer.
+- \<leader>ad : search word under cursor (or visual selection) in current buffer file's directory.
+- \<leader>ap : search word under cursor (or visual selection) in current buffer file's parent directory.
+- \<leader>aw : search word under cursor (or visual selection) in working directory.
 
 Default abbreviations:
 - _agf : search in current buffer.
